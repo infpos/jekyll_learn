@@ -1,0 +1,47 @@
+I"�<p>web第二次作业</p>
+
+<hr />
+<h1 id="web应用软件开发实训---第二次作业---开发一个静态网站">WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</h1>
+
+<p>https://linj625.github.io/</p>
+
+<h2 id="一网站目录结构">一、网站目录结构</h2>
+
+<p>用“tree”命令输出网站目录结构并截图
+<img src="\assets\images\tree.png" alt="tree" /></p>
+
+<h2 id="二网站截图">二、网站截图</h2>
+
+<p>截图内容：</p>
+
+<ul>
+  <li>首页
+<img src="\assets\images\首页.png" alt="首页" /></li>
+  <li>Blog列表页
+<img src="\assets\images\blog列表页.png" alt="blog列表页" /></li>
+  <li>两篇Post（至少有一篇是Markdown练习）
+    <ul>
+      <li>Post1
+<img src="\assets\images\post1.png" alt="post1" /></li>
+      <li>Post2
+<img src="\assets\images\post2.png" alt="post2" /></li>
+    </ul>
+  </li>
+  <li>Staff列表页</li>
+  <li>一个Staff列表页
+<img src="\assets\images\staff页.png" alt="staff页" /></li>
+  <li>一个作者简介页面
+<img src="\assets\images\作者简介页.png" alt="作者简介页" /></li>
+  <li>一个About页面
+<img src="\assets\images\about页.png" alt="about页" /></li>
+</ul>
+
+<h2 id="三实验过程">三、实验过程</h2>
+
+<p>首先在WSL上安装jekyll和nginx，并在win10上安装VScode以及remote插件，再通过remote连接wsl；然后再在VScode中按照”jekyll官方文档“的”step by step tutorial“搭建自己的博客，再用git命令将其push到自己的github仓库，并且将_site目录部署到nginx上且没有错误。</p>
+
+<h2 id="四总结">四、总结</h2>
+
+<p>在实验过程中由于对jekyll编译产生的文件目录不是太了解，导致在搭建自己的博客时不能通过编译，页面效果达不到自己的预期，后来通过阅读jekyll官方文档，清晰地了解了jekyll的文件目录结构，使得问题得到了解决；在将本地文件push到github上时，因为对git命令不熟悉，导致有时候能够push成功而有时候不能，后来上网学习了一些git命令后，终于能够熟练地将本地文件push到github上。通过本次实验，我懂得了计算机专业方面的相关知识不仅仅是局限在课本上的那些内容，未来要走的路还有很长。</p>
+
+:ET
