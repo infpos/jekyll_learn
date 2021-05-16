@@ -1,0 +1,110 @@
+I"�<h1 id="web应用软件开发实训-第3次作业-git使用">WEB应用软件开发实训-第3次作业-Git使用</h1>
+
+<blockquote>
+  <p>learngit 项目网站为：https://github.com/linj625/learngit</p>
+</blockquote>
+
+<h2 id="一必做部分">一、必做部分</h2>
+
+<h3 id="1安装git">1.安装Git</h3>
+
+<p><img src="\assets\images\web_1_安装git.png" alt="web_1_安装git" /></p>
+
+<h3 id="2创建版本库">2.创建版本库</h3>
+
+<p><img src="\assets\images\web_2_创建版本库.png" alt="web_2_创建版本库" /></p>
+
+<h3 id="3版本控制">3.版本控制</h3>
+
+<p><img src="\assets\images\web_3_版本控制.png" alt="web_3_版本控制" /></p>
+
+<h3 id="4版本回退">4.版本回退</h3>
+
+<p><img src="\assets\images\web_4_版本回退.png" alt="web_4_版本回退" /></p>
+
+<h3 id="5工作区和暂存区">5.工作区和暂存区</h3>
+
+<p><img src="\assets\images\web_5_工作区和暂存区.png" alt="web_5_工作区和暂存区" /></p>
+
+<h3 id="6管理修改">6.管理修改</h3>
+
+<p><img src="\assets\images\web_6_管理修改.png" alt="web_6_管理修改" /></p>
+
+<h3 id="7撤销修改">7.撤销修改</h3>
+
+<p><img src="\assets\images\web_7_撤销修改.png" alt="web_7_撤销修改" /></p>
+
+<h3 id="8删除文件">8.删除文件</h3>
+
+<p><img src="\assets\images\web_8_删除文件.png" alt="web_8_删除文件" /></p>
+
+<h3 id="9远程仓库">9.远程仓库</h3>
+
+<p><img src="\assets\images\web_9_远程仓库1.png" alt="web_9_远程仓库1" />
+<img src="\assets\images\web_9_远程仓库2.png" alt="web_9_远程仓库2" /></p>
+
+<h3 id="10添加远程仓库">10.添加远程仓库</h3>
+
+<p><img src="\assets\images\web_10_添加远程仓库1.png" alt="web_10_添加远程仓库1" />
+<img src="\assets\images\web_10_添加远程仓库2.png" alt="web_10_添加远程仓库2" /></p>
+
+<h3 id="11从远程仓库克隆">11.从远程仓库克隆</h3>
+
+<p><img src="\assets\images\web_11_从远程库克隆.png" alt="web_11_从远程库克隆" /></p>
+
+<h2 id="二选做部分">二、选做部分</h2>
+
+<h3 id="一分支管理">（一）分支管理</h3>
+
+<h4 id="1创建与合并分支">1.创建与合并分支</h4>
+
+<p><img src="\assets\images\web_选做_分支管理相关_创建与合并分支.png" alt="web_选做_分支管理相关_创建与合并分支" /></p>
+
+<h4 id="2解决冲突">2.解决冲突</h4>
+
+<p><img src="\assets\images\web_选做_分支管理相关_解决冲突.png" alt="web_选做_分支管理相关_解决冲突" /></p>
+
+<h4 id="3分支管理策略">3.分支管理策略</h4>
+
+<p><img src="\assets\images\web_选做_分支管理相关_分支管理策略.png" alt="web_选做_分支管理相关_分支管理策略" /></p>
+
+<h4 id="4bug分支">4.Bug分支</h4>
+
+<p><img src="\assets\images\web_选做_分支管理相关_bug分支.png" alt="web_选做_分支管理相关_bug分支" /></p>
+
+<h4 id="5feature分支">5.Feature分支</h4>
+
+<p><img src="\assets\images\web_选做_分支管理相关_Feature分支.png" alt="web_选做_分支管理相关_Feature分支" /></p>
+
+<h3 id="二标签管理">（二）标签管理</h3>
+
+<h4 id="1创建标签">1.创建标签</h4>
+
+<p><img src="\assets\images\web_选做_标签管理_创建标签.png" alt="web_选做_标签管理_创建标签" /></p>
+
+<h4 id="2操作标签">2.操作标签</h4>
+
+<p><img src="\assets\images\web_选做_标签管理_操作标签.png" alt="web_选做_标签管理_操作标签" /></p>
+
+<h3 id="三使用gitee">（三）使用Gitee</h3>
+
+<p><img src="\assets\images\web_选做_使用Gitee.png" alt="web_选做_使用Gitee" /></p>
+
+<h3 id="四自定义git">（四）自定义Git</h3>
+
+<h4 id="1忽略特殊文件">1.忽略特殊文件</h4>
+
+<p><img src="\assets\images\web_选做_自定义git_忽略特殊文件.png" alt="web_选做_自定义git_忽略特殊文件" /></p>
+
+<h4 id="2配置别名">2.配置别名</h4>
+
+<p><img src="\assets\images\web_选做_自定义git_配置别名.png" alt="web_选做_自定义git_配置别名" /></p>
+
+<h2 id="三实验过程">三、实验过程</h2>
+
+<p>由于在之前安装过git，所以本次实验无需再安装git，按照讲义的步骤，依次完成了创建版本库、版本控制、版本回退、工作区和暂存区、管理修改、撤销修改、删除文件、远程仓库的内容；同时也顺利地完成了选做内容的相关部分。</p>
+
+<h2 id="四总结">四、总结</h2>
+
+<p>​        本次实验内容较多，花费了较大的精力，在将本地项目push到github上时，如果采用SSH的方式会导致失败，最后采用了https的方式push成功。通过本次实验也巩固了自己在这方面的知识，系统地掌握了Git相关的操作，进一步提升了自己的能力。同时我还发现在使用GitHub时，经常遇到的问题是访问速度太慢，有时候甚至还会出现无法连接的情况，如果我们希望更好地体验Git，可以使用国内的Git托管服务Gitee。和GitHub相比，Gitee也提供免费的Git仓库。此外，还集成了代码质量检测、项目演示等功能。</p>
+:ET
